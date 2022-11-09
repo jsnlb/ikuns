@@ -4,7 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2322979-3880-4896-b950-fba9e84d12f4" name="Changes" comment="应届生" />
+    <list default="true" id="b2322979-3880-4896-b950-fba9e84d12f4" name="Changes" comment="前端">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667907774621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="前端网页模板">
+      <created>1667957597202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667957597202</updated>
+    </task>
+    <task id="LOCAL-00005" summary="前端">
+      <created>1667957680594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667957680594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="前端">
+      <created>1667957743927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667957743927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +137,9 @@
     <MESSAGE value="123" />
     <MESSAGE value="登录页面" />
     <MESSAGE value="应届生" />
-    <option name="LAST_COMMIT_MESSAGE" value="应届生" />
+    <MESSAGE value="前端网页模板" />
+    <MESSAGE value="前端" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
